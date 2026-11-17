@@ -10,6 +10,8 @@ $httpSources = @(
     "https://ipinfo.io/ip",
     "https://checkip.amazonaws.com",
     "https://ident.me",
+    "https://wtfismyip.com/text",
+    "https://ipecho.net/plain",
     "https://thisip.com/ip"
 )
 
