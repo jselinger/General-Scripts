@@ -30,6 +30,7 @@ Restart PowerShell once if an older version registered files that it then delete
 
 $httpSources = @(
     "https://api.ipify.org",
+    "https://wtfismyip.com/text",
     "https://ifconfig.me",
     "https://icanhazip.com",
     "https://ipinfo.io/ip",
